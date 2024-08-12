@@ -1,0 +1,6 @@
+@AsisRestfulAPIProject_HostAddress = http://localhost:5030
+
+GET {{AsisRestfulAPIProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
